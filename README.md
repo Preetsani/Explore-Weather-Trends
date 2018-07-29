@@ -1,2 +1,2 @@
 # Explore-Weather-Trends
-This project explores weather trends of city compared to city SFO, CA
+This project explores world weather trends compared to city SFO, CA
